@@ -1,4 +1,4 @@
-# agenda
+# AGENDA
 # Exemple d'utilisation de php: Agenda
 
 ## Introduction
